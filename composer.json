@@ -1,6 +1,6 @@
 {
-    "name": "fusic/AdminBase",
-    "description": "AdmibBase",
+    "name": "satthi/AdminBake",
+    "description": "AdmibBake",
     "type": "cakephp-plugin",
     "keywords": ["cakephp"],
     "homepage": "https://github.com/satthi/adminBake",
@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "AdminBase\\": "src"
+            "AdminBake\\": "src"
         }
     },
     "autoload-dev": {
