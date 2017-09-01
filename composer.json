@@ -1,0 +1,40 @@
+{
+    "name": "fusic/AdminBase",
+    "description": "AdmibBase",
+    "type": "cakephp-plugin",
+    "keywords": ["cakephp"],
+    "homepage": "https://github.com/satthi/adminBake",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Satoru Hagiwara",
+            "role": "Author"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/satthi/adminBake"
+    },
+    "require": {
+        "cakephp/cakephp": ">=3.5"
+    },
+    "require-dev": {
+        "phpmd/phpmd": "*",
+        "friendsofphp/php-cs-fixer": "*",
+        "cakephp/cakephp-codesniffer": "dev-master",
+        "thomasbachem/php-short-array-syntax-converter": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "AdminBase\\": "src"
+        }
+    },
+    "autoload-dev": {
+    },
+    "suggest": {
+    },
+    "extra": {
+    },
+    "scripts": {
+    },
+    "prefer-stable": true
+}
