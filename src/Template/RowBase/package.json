@@ -1,0 +1,20 @@
+{
+  "name": "InstantContents",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "admin-lte": "2.3.x",
+    "jquery": "1.x",
+    "jquery-ui-dist": "1.x",
+    "jquery-colorbox": "1.x",
+    "jquery-timepicker": "*",
+    "moment": "*",
+    "jsrender": "*",
+    "spin.js": "*",
+    "jquery.cookie": "*",
+    "bootstrap-daterangepicker": "*"
+  },
+  "author": "Hagiwara",
+  "license": "BSD"
+}

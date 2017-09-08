@@ -1,0 +1,78 @@
+# common
+msgid "Project Name"
+msgstr ""
+
+msgid "Management"
+msgstr "管理"
+
+# flash message
+msgid "The {0} has been saved."
+msgstr "{0}を登録しました"
+
+msgid "The {0} could not be saved. Please, try again."
+msgstr "{0}が登録できませんでした"
+
+msgid "Can I delete it?"
+msgstr "削除してもよろしいですか？"
+
+msgid "The {0} has been deleted."
+msgstr "{0}を削除しました"
+
+msgid "The {0} could not be deleted. Please, try again."
+msgstr "{0}が削除できませんでした"
+
+msgid "This could not be updated. Please, try again."
+msgstr "更新できませんでした"
+
+msgid "You are not authorized to access that location."
+msgstr "ログインしてください"
+
+msgid "It is over the post max size"
+msgstr "ファイルアップロード容量の上限を超えています"
+
+# index/form common
+msgid "Add"
+msgstr "新規登録"
+
+msgid "Add Confirm"
+msgstr "新規登録 確認"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Edit Confirm"
+msgstr "編集 確認"
+
+msgid "Detail"
+msgstr "詳細"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Back to index"
+msgstr "一覧に戻る"
+
+msgid "Confirm"
+msgstr "確認"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "Submit"
+msgstr "登録"
+
+# admin common
+msgid "Login"
+msgstr "ログイン"
+
+msgid "Logout"
+msgstr "ログアウト"
+
+msgid "Login Id"
+msgstr "ログインID"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Invalid credentials, try again"
+msgstr "ログインできませんでした"

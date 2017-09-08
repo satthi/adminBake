@@ -1,0 +1,8 @@
+/vendor/*
+/files/*
+/tmp/*
+/logs/*
+schema-dump-default.lock
+.php_cs.cache
+/node_modules
+/webroot/node_modules
